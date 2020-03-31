@@ -1,0 +1,10 @@
+personalAccessToken.js
+.idea
+**/node_modules/*
+**/.firebaserc
+**/.firebase/*
+firebase.json
+*/npm-debug.log
+.DS_Store
+*~
+service-account-credentials.json
